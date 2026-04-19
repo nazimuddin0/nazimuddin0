@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d0a,100:00ff41&height=200&section=header&text=MD%20Nazim%20Uddin&fontSize=60&fontColor=00ff41&fontAlignY=38&desc=Jr.%20Red%20Team%20Analyst%20%7C%20Reverse%20Engineer%20%7C%20Malware%20Analysis%20Researcher&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Jr.+Red+Team+Analyst+%40+Byte+Capsule;Reverse+Engineering+%26+Malware+Analysis;CNSP+%7C+Ethical+Hacking+for+Professionals+%7C+Red+Team+Certified;VAPT+%7C+Active+Directory+%7C+Exploit+Development;Binary+Analysis+%7C+Static+%26+Dynamic+Malware+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=f44336&center=true&vCenter=true&width=800&lines=Jr.+Red+Team+Analyst+%40+Byte+Capsule;Reverse+Engineering+%26+Malware+Analysis;Binary+Analysis+%7C+Static+%26+Dynamic+Malware+Research)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@ $ cat profile.txt
 │  Current Role : Jr. Red Team Analyst @ Byte Capsule (Part-time)   │
 │  Location     : Dhaka, Bangladesh                                  │
 │  Education    : BSc CSE — Cybersecurity Track                      │
-│                 World University of Bangladesh (2024–2027)         │
+│                 World University of Bangladesh          │
 │  Certs        : CNSP · Ethical Hacking for Professionals ·        │
 │                 Certified Cybersecurity Educator Professional ·    │
 │                 API Security Fundamentals                          │
@@ -126,11 +126,11 @@ $ cat profile.txt
 
 ```
 🎓 World University of Bangladesh
-   └── BSc in Computer Science & Engineering   Jan 2024 – Apr 2027
+   └── BSc in Computer Science & Engineering   
        └── Specialization: Cybersecurity
 
 📜 Uttara Polytechnic Institute
-   └── Diploma in Computer Science & Technology  Feb 2019 – Nov 2023
+   └── Diploma in Computer Science & Technology 
        
 ```
 
