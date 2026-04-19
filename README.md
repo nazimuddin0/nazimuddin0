@@ -16,15 +16,15 @@ $ whoami
 
 $ cat profile.txt
 ┌────────────────────────────────────────────────────────────────────┐
-│  Current Role : Jr. Red Team Analyst @ Byte Capsule (Part-time)   │
+│  Current Role : Jr. Red Team Analyst @ Byte Capsule (Part-time)    │
 │  Location     : Dhaka, Bangladesh                                  │
 │  Education    : BSc CSE — Cybersecurity Track                      │
-│                 World University of Bangladesh          │
-│  Certs        : CNSP · Ethical Hacking for Professionals ·        │
+│                 World University of Bangladesh                     │
+│  Certs        : CNSP · Ethical Hacking for Professionals ·         │
 │                 Certified Cybersecurity Educator Professional ·    │
 │                 API Security Fundamentals                          │
 │  Platform     : Kali Linux                                         │
-│  Focus        : Red Teaming · RE · MA · VAPT · Exploit Dev        │
+│  Focus        : Red Teaming · RE · MA · VAPT · Exploit Dev         │
 └────────────────────────────────────────────────────────────────────┘
 ```
 
