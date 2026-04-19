@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:cc0000&height=200&section=header&text=MD%20Nazim%20Uddin&fontSize=60&fontColor=f3f6f4&fontAlignY=38&desc=Jr.%20Red%20Team%20Analyst%20%7C%20Reverse%20Engineer%20%7C%20Malware%20Analysis%20Researcher&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:93263D,100:93263D&height=200&section=header&text=MD%20Nazim%20Uddin&fontSize=60&fontColor=f3f6f4&fontAlignY=38&desc=Jr.%20Red%20Team%20Analyst%20%7C%20Reverse%20Engineer%20%7C%20Malware%20Analysis%20Researcher&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=f44336&center=true&vCenter=true&width=800&lines=Jr.+Red+Team+Analyst+%40+Byte+Capsule;Reverse+Engineering+%26+Malware+Analysis;Binary+Analysis+%7C+Static+%26+Dynamic+Malware+Research)](https://git.io/typing-svg)
 
