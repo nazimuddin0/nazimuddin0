@@ -192,7 +192,7 @@ $ cat profile.txt
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=nazimuddin0&icon=6&color=12)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0a3d0a,100:0d1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:93263D,100:070708&height=100&section=footer" width="100%"/>
 
 </div>
 
